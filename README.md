@@ -1,16 +1,18 @@
-### Hi there 👋
+**Summary:**  
+Experienced DevOps Engineer with a background in System Administration, specializing in enhancing business processes and optimizing IT infrastructure. Proficient in a variety of technologies including AWS, Kubernetes, Docker, and CI/CD pipelines. Strong communication skills and adept at coordinating with cross-functional teams to ensure seamless operation of systems.
 
-<!--
-**anderson28/anderson28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Work Experience:**
+- Managed critical IT systems for municipal operations, ensuring smooth functioning and effective communication across departments.
+- Responsible for overseeing IT infrastructure and enhancing systems for improved efficiency and productivity.
 
-Here are some ideas to get you started:
+**Education:**
+- Donbas State Technical University, Department of Specialized Computer Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Additional Education:**
+- EPAM DevOps Course
+
+**Language Proficiencies:**
+- English ─ Intermediate
+
+**Additional Information:**
+- Technologies: AWS, DigitalOcean, Hetzner, Kubernetes, K3s, Git, GitLab CI/CD, Mikrotik, Cisco, Nginx, Apache, PostgreSQL, MariaDB, Redis, YAML, Bash, Ansible, Jenkins, Terraform
